@@ -46,7 +46,7 @@ const Lukman = {
 
 ## 📚 What I’m learning now
 - Mobile App Development (React Native for cross-platform apps)
-- AI/ML Foundations (AI-Gents, CSPs, MDPs)
+- AI/ML Foundations (AI-agents, CSPs, MDPs)
 - Systems & IoT (ESP32, IMU sensors)
 - Software Engineering Practices (GitHub collaboration: branching, merging, PRs)
 - Backend APIs (FastAPI/Express)  
