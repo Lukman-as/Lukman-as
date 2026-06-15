@@ -1,16 +1,16 @@
 <div align="center">
 
 <!-- Typing animation header. Edit the "lines" query params to change the text. -->
-<a href="https://github.com/LUKMAN_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1200&color=8B949E&center=true&vCenter=true&width=520&height=60&lines=Lukman+Abdul-Samadh;CS+%26+Mathematics+%7C+Toronto%2C+ON;Building+with+AI%2C+web+%26+mobile" alt="Lukman Abdul-Samadh" />
+<a href="https://github.com/Lukman-as">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=8B949E&center=true&vCenter=true&width=640&height=60&lines=Lukman+Abdul+Samadh;Full-Stack+%26+Mobile+Developer;Computer+Vision+%7C+Math+%7C+Toronto" alt="Lukman Abdul Samadh" />
 </a>
 
 <p>
-  <em>Computer Science &amp; Mathematics undergraduate crafting thoughtful<br/>
-  mobile and web applications — with a growing focus on AI agents and emerging tech.</em>
+  <em>Full-stack &amp; mobile developer with a strong Mathematics foundation —<br/>
+  building MERN apps, fintech pipelines, and computer-vision systems.</em>
 </p>
 
-<a href="https://www.linkedin.com/in/lukman-abdul-samadh-8046bb292/">
+<a href="https://www.linkedin.com/in/lukman-as/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>&nbsp;
 <a href="mailto:luka37@my.yorku.ca">
@@ -29,7 +29,7 @@ const lukman = {
   role:      "CS & Mathematics Undergraduate",
   location:  "Toronto, ON",
   pronouns:  "he/him",
-  focus:     ["AI Agents", "Mobile & Web Apps", "Emerging Tech"],
+  focus:     ["Full-Stack & Mobile", "Computer Vision / ML", "Math-driven problem solving"],
   interests: ["Books", "Math", "Coding"],
 };
 ```
@@ -41,29 +41,40 @@ const lukman = {
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Expo-1B1F23?style=flat-square&logo=expo&logoColor=white" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 ---
 
-### 📚 Currently exploring
+### 📚 What I'm working on
 
 | Area | Focus |
 |------|-------|
-| **Mobile Development** | React Native for cross-platform apps |
-| **AI / ML Foundations** | AI agents, CSPs, MDPs |
-| **Systems &amp; IoT** | ESP32, IMU sensors |
-| **Backend APIs** | FastAPI · Express |
-| **Engineering Practice** | Git workflows — branching, merging, PRs |
+| **Full-Stack & Mobile** | MERN-stack apps with React Native, Node/Express & Expo — auth (JWT, OTP), role-based access |
+| **Fintech Engineering** | End-to-end stock execution & wire-transfer pipelines; secure in-app transactions |
+| **Computer Vision & ML** | Object detection (YOLO) and image-processing pipelines in Python |
+| **Systems & IoT** | IMU-driven real-time 3D motion tracking (Madgwick filter, Unity, Arduino) |
+| **Data & Visualization** | NumPy · pandas · Matplotlib · MATLAB for analysis and statistical mapping |
+| **Cloud & Deployment** | Shipping to Vercel, GCP & Cloudflare with clean Git/GitHub workflows |
 
 ---
 
@@ -77,7 +88,7 @@ const lukman = {
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Lukman-as&hide_border=true&background=0D1117&stroke=8B949E&ring=58A6FF&fire=58A6FF&currStreakLabel=8B949E" height="165" />
+<img src="https://streak-stats.demolab.com?user=Lukman-as&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&currStreakLabel=8B949E&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" height="165" />
 
 </div>
 
